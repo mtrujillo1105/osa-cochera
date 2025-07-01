@@ -12,13 +12,13 @@
 ### Clonamos el repositorio
 
 ```sh
-git clone https://github.com/ccjuantrujillo/osa-cochera
+git clone https://github.com/mtrujillo1105/osa-cochera
 ```
 
 ## Desarrollo
 
 ### Ingreso al sistema
-![Login](https://github.com/ccjuantrujillo/osa-cochera/blob/main/documentacion/images/login.PNG)
+![Login](https://github.com/mtrujillo1105/osa-cochera/blob/main/documentacion/images/login.PNG)
 
 ### Panel Administrador
-![Login](https://github.com/ccjuantrujillo/osa-cochera/blob/main/documentacion/images/inicio.PNG)
+![Login](https://github.com/mtrujillo1105/osa-cochera/blob/main/documentacion/images/inicio.PNG)
