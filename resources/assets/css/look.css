@@ -1,0 +1,58 @@
+.login-copy,
+.register-copy {
+  font-size: 16px;
+  text-align: center;
+  margin-bottom: 25px;
+  font-weight: 300;
+}
+.login-copy a,
+.register-copy a {
+  color:#e0e0e0;
+}
+.fondo-login{
+  background: url(../img/photo2.jpg);
+  background-size: 100% 100%;
+}
+.login-logo,
+.register-logo {
+  font-size: 35px;
+  text-align: center;
+  margin-bottom: 25px;
+  font-weight: 300;
+}
+.login-logo a,
+.register-logo a {
+  color:#fff;
+}
+.login-page,
+.register-page {
+  background: #d2d6de;
+}
+.login-box,
+.register-box {
+  width: 360px;
+  margin: 4% auto;
+}
+.login-box-body,
+.register-box-body {
+  background: #fff;
+  padding: 20px;
+  border-top: 0;
+  color: #666;
+}
+.login-box-body .form-control-feedback,
+.register-box-body .form-control-feedback {
+  color: #777;
+}
+.login-box-msg,
+.register-box-msg {
+  margin: 0;
+  text-align: center;
+  padding: 0 20px 20px 20px;
+}
+.currency-box{
+  background-color: #fff;
+  width:500px;
+  height: 500px;
+  margin: 33.33% 0 0 33.33%;
+}
